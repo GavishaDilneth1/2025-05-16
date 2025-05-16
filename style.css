@@ -20,3 +20,13 @@ p{
     padding: 30px;
 
 }
+.box1{
+    background-color: brown;
+    width: 150px;
+    height: 150px;
+}
+.box2{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+}
