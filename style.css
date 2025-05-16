@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DK+Loopet:wght@100..400&family=Satisfy&display=swap');
+
+p{
+    text-align: center;
+    color: #fff;
+    background-color: blueviolet;
+    margin: 50px;
+    padding: 50px;
+    font-size: 100px;
+    font-family: "Satisfy", cursive;
+    text-decoration: underline;
+    font-weight: 400;
+    font-style: normal;
+
+}
